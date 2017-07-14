@@ -1,0 +1,431 @@
+//-------------------------- 6/30/2017 -- 08:17:40 -----
+Processor Init:
+   Intel (unknown, Pentium Pro/II/III family), ~3.40 Ghz
+     (timed at roughly 3.39 Ghz)
+   FPU detected
+   MMX detected
+   SSE detected
+ 
+Math Init:
+   Installing Standard C extensions
+   Installing Assembly extensions
+   Installing FPU extensions
+   Installing MMX extensions
+   Installing SSE extensions
+ 
+Input Init:
+   DirectInput enabled.
+
+Initializing chunk mappings...
+Could not load this GL function: glGenTextures
+Could not load this GL function: glBindTexture
+Could not load this GL function: glTexImage2D
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glGenTextures
+Could not load this GL function: glBindTexture
+Could not load this GL function: glTexImage2D
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+Could not load this GL function: glTexParameteri
+   o 'TEXT' maps to TextChunk
+   o 'SCHK' maps to UnknownChunk
+   o 'SCHK' maps to SimChunk
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/main.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/main.cs.
+ % - Initializing Common
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/preferences/defaultPrefs.cs.
+Reading Display Device information...
+   Primary Display Device Found:
+      Vendor Id: VEN_0000
+      Device Id: DEV_0000
+
+Using OpenGL rendering. Fullscreen: 0
+
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/xml.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/properties.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/common.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/audio.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/canvas.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/cursor.cs.
+Video Init:
+   Accelerated OpenGL display device detected.
+   Accelerated D3D device detected.
+   Voodoo 2 display device not detected.
+
+Activating the OpenGL display device...
+Activating the OpenGL display device...
+Setting screen mode to 800x600x32 (w)...
+Creating a new window...
+Acquiring a new device context...
+Pixel format set:
+  32 color bits, 24 depth bits, 8 stencil bits
+Creating a new rendering context...
+Making the new rendering context current...
+OpenGL driver information:
+  Vendor: NVIDIA Corporation
+  Renderer: GeForce 8400GS/PCIe/SSE2
+  Version: 3.3.0
+OpenGL Init: Enabled Extensions
+  ARB_multitexture (Max Texture Units: 4)
+  EXT_blend_color
+  EXT_blend_minmax
+  EXT_compiled_vertex_array
+  NV_vertex_array_range
+  EXT_texture_env_combine
+  EXT_packed_pixels
+  EXT_fog_coord
+  ARB_texture_compression
+  EXT_texture_compression_s3tc
+  (ARB|EXT)_texture_env_add
+  EXT_texture_filter_anisotropic (Max anisotropy: 16)
+  WGL_EXT_swap_control
+OpenGL Init: Disabled Extensions
+  EXT_paletted_texture
+  3DFX_texture_compression_FXT1
+
+Max Texture Size reported as: 8192
+OpenAL Driver Init:
+   Vendor: Creative Labs Inc.
+   Version: OpenAL 1.0
+   Renderer: Software
+   Extensions: EAX 2.0, EAX 3.0, EAX Unified, and EAX-AC3
+
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/profiles.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/cursors.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/messageBoxOk.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/messageBoxYesNo.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/messageBoxYesNoCancel.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/messageBoxOKCancel.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/messageBoxOKCancelDetailsDlg.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/messagePopup.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/options.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/remap.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/console.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/NetworkMenu.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/startServer.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/joinServer.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/waitingForServer.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/helpDlg.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/messageBox.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/help.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gui/chatGui.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/screenshot.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/metrics.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/Gui/FrameOverlayGui.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/scriptDoc.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/keybindings.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/options.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/levelManagement.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/projectManagement.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/projectResources.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/common/gameScripts/align.cs.
+
+Torque Game Builder (v1.7.4) initialized...
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/resources/PlatformerArt/resourceDatabase.cs.
+ % Game Resources : Loaded Resource PlatformerArt
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/managed/datablocks.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/managed/persistent.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/managed/brushes.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/gameScripts/datablocks.cs.
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/TrampolineBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/SpawnPointBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/PlatformBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/PickupBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/PepperPickupBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/ParallaxBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/MusicTriggerBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/LevelCompleteBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/LadderBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/FallingPlatformBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/EnemyTurnBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/ControllerBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/CheckPointPickupBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/AreaDamageBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/AIControllerBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/ActorBehavior.cs...
+Compiling M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/ActorAnimationBehavior.cs...
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/TrampolineBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/SpawnPointBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/PlatformBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/PickupBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/PepperPickupBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/ParallaxBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/MusicTriggerBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/LevelCompleteBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/LadderBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/FallingPlatformBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/EnemyTurnBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/ControllerBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/CheckPointPickupBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/AreaDamageBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/AIControllerBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/ActorBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/behaviors/ActorAnimationBehavior.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/gameScripts/guiProfiles.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/gui/mainScreen.gui.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/gameScripts/game.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/gameScripts/timer.cs.
+Activating DirectInput...
+DirectInput joystick failed to enable!
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/gameScripts/GameMethods.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/gameScripts/ObjectManager.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/gameScripts/SoundManager.cs.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '1635' is already in a SceneGraph!.
+Set::remove: Object "1635" does not exist in set
+Set::remove: Object "1635" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '1640' is already in a SceneGraph!.
+Set::remove: Object "1640" does not exist in set
+Set::remove: Object "1640" does not exist in set
+New speed: 12
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '1644' is already in a SceneGraph!.
+Set::remove: Object "1644" does not exist in set
+Set::remove: Object "1644" does not exist in set
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+<input> (0): Unable to find object: '4551' attempting to call function 'keyUp'
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7822' is already in a SceneGraph!.
+Set::remove: Object "7822" does not exist in set
+Set::remove: Object "7822" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7826' is already in a SceneGraph!.
+Set::remove: Object "7826" does not exist in set
+Set::remove: Object "7826" does not exist in set
+New speed: 12
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7830' is already in a SceneGraph!.
+Set::remove: Object "7830" does not exist in set
+Set::remove: Object "7830" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7834' is already in a SceneGraph!.
+Set::remove: Object "7834" does not exist in set
+Set::remove: Object "7834" does not exist in set
+New speed: 14
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7838' is already in a SceneGraph!.
+Set::remove: Object "7838" does not exist in set
+Set::remove: Object "7838" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7843' is already in a SceneGraph!.
+Set::remove: Object "7843" does not exist in set
+Set::remove: Object "7843" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7847' is already in a SceneGraph!.
+Set::remove: Object "7847" does not exist in set
+Set::remove: Object "7847" does not exist in set
+t2dAnimationController::playAnimation() - Invalid t2dAnimationDatablock datablock (-)
+New speed: 16
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7851' is already in a SceneGraph!.
+Set::remove: Object "7851" does not exist in set
+Set::remove: Object "7851" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7856' is already in a SceneGraph!.
+Set::remove: Object "7856" does not exist in set
+Set::remove: Object "7856" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7860' is already in a SceneGraph!.
+Set::remove: Object "7860" does not exist in set
+Set::remove: Object "7860" does not exist in set
+New speed: 18
+t2dAnimationController::playAnimation() - Invalid t2dAnimationDatablock datablock (-)
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7865' is already in a SceneGraph!.
+Set::remove: Object "7865" does not exist in set
+Set::remove: Object "7865" does not exist in set
+t2dAnimationController::playAnimation() - Invalid t2dAnimationDatablock datablock (-)
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7869' is already in a SceneGraph!.
+Set::remove: Object "7869" does not exist in set
+Set::remove: Object "7869" does not exist in set
+New speed: 20
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7873' is already in a SceneGraph!.
+Set::remove: Object "7873" does not exist in set
+Set::remove: Object "7873" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7877' is already in a SceneGraph!.
+Set::remove: Object "7877" does not exist in set
+Set::remove: Object "7877" does not exist in set
+New speed: 22
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '7882' is already in a SceneGraph!.
+Set::remove: Object "7882" does not exist in set
+Set::remove: Object "7882" does not exist in set
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Loading compiled script M:/Pat's Greatest Hits/RapidRollPSK/game/data/levels/untitled.t2d.
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14060' is already in a SceneGraph!.
+Set::remove: Object "14060" does not exist in set
+Set::remove: Object "14060" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14064' is already in a SceneGraph!.
+Set::remove: Object "14064" does not exist in set
+Set::remove: Object "14064" does not exist in set
+New speed: 12
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14068' is already in a SceneGraph!.
+Set::remove: Object "14068" does not exist in set
+Set::remove: Object "14068" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14073' is already in a SceneGraph!.
+Set::remove: Object "14073" does not exist in set
+Set::remove: Object "14073" does not exist in set
+New speed: 14
+t2dAnimationController::playAnimation() - Invalid t2dAnimationDatablock datablock (-)
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14077' is already in a SceneGraph!.
+Set::remove: Object "14077" does not exist in set
+Set::remove: Object "14077" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14081' is already in a SceneGraph!.
+Set::remove: Object "14081" does not exist in set
+Set::remove: Object "14081" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14085' is already in a SceneGraph!.
+Set::remove: Object "14085" does not exist in set
+Set::remove: Object "14085" does not exist in set
+New speed: 16
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14089' is already in a SceneGraph!.
+Set::remove: Object "14089" does not exist in set
+Set::remove: Object "14089" does not exist in set
+Spawn a platform
+t2dSceneGraph::addToScene() - Object '14093' is already in a SceneGraph!.
+Set::remove: Object "14093" does not exist in set
+Set::remove: Object "14093" does not exist in set
+DirectInput deactivated.
+Shutting down the OpenGL display device...
+Making the GL rendering context not current...
+Deleting the GL rendering context...
+Releasing the device context...

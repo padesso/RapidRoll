@@ -1,0 +1,704 @@
+%levelContent = new t2dSceneGraph() {
+   canSaveDynamicFields = "1";
+   UseLayerSorting = "1";
+   layerSortMode0 = "Normal";
+   layerSortMode1 = "Normal";
+   layerSortMode2 = "Normal";
+   layerSortMode3 = "Normal";
+   layerSortMode4 = "Normal";
+   layerSortMode5 = "Normal";
+   layerSortMode6 = "Normal";
+   layerSortMode7 = "Normal";
+   layerSortMode8 = "Normal";
+   layerSortMode9 = "Normal";
+   layerSortMode10 = "Normal";
+   layerSortMode11 = "Normal";
+   layerSortMode12 = "Normal";
+   layerSortMode13 = "Normal";
+   layerSortMode14 = "Normal";
+   layerSortMode15 = "Normal";
+   layerSortMode16 = "Normal";
+   layerSortMode17 = "Normal";
+   layerSortMode18 = "Normal";
+   layerSortMode19 = "Normal";
+   layerSortMode20 = "Normal";
+   layerSortMode21 = "Normal";
+   layerSortMode22 = "Normal";
+   layerSortMode23 = "Normal";
+   layerSortMode24 = "Normal";
+   layerSortMode25 = "Normal";
+   layerSortMode26 = "Normal";
+   layerSortMode27 = "Normal";
+   layerSortMode28 = "Normal";
+   layerSortMode29 = "Normal";
+   layerSortMode30 = "Normal";
+   layerSortMode31 = "Normal";
+   DebugRendering = "0";
+      cameraPosition = "0 0";
+      cameraSize = "100 75";
+
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-42.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "2";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-37.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "3";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-32.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "4";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-27.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "5";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-22.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "6";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-17.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "7";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-12.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "8";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-7.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "9";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-2.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "10";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "2.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "11";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "7.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "12";
+   };
+   new t2dTrigger() {
+      canSaveDynamicFields = "1";
+      Position = "0.000 -36.250";
+      size = "100.000 2.500";
+      CollisionActiveSend = "1";
+      CollisionActiveReceive = "1";
+         mountID = "13";
+      _behavior0 = "AreaDamageBehavior	PlayerOnly	1	Amount	100";
+   };
+   new t2dTrigger() {
+      canSaveDynamicFields = "1";
+      Position = "0.000 35.750";
+      size = "100.000 2.500";
+      CollisionActiveSend = "1";
+      CollisionActiveReceive = "1";
+         mountID = "14";
+      _behavior0 = "AreaDamageBehavior	PlayerOnly	1	Amount	100";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "12.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "15";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "17.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "16";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "22.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "17";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "27.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "18";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "32.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "19";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "37.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "20";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "42.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "21";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "47.229 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "22";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-48.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "23";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-42.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "24";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-37.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "25";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-32.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "26";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-27.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "27";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-22.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "28";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-17.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "29";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-12.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "30";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-7.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "31";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-2.771 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "32";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "2.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "33";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "7.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "34";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "12.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "35";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "17.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "36";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "22.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "37";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "27.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "38";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "32.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "39";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "37.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "40";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "42.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "41";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "47.229 42.375";
+      size = "21.250 16.000";
+      Rotation = "90";
+      FlipX = "1";
+      Layer = "16";
+         mountID = "42";
+   };
+   new t2dAnimatedSprite(fallingPlatform) {
+      animationName = "platform_crumbleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "82.839 -6.532";
+      size = "32.000 8.000";
+      Layer = "17";
+      CollisionPolyList = "-0.854 -1.000 0.864 -1.000 0.766 -0.295 -0.771 -0.275";
+         mountID = "43";
+      _behavior0 = "PlatformBehavior";
+      _behavior1 = "FallingPlatformBehavior	FallAnimation	-";
+   };
+   new t2dStaticSprite(safePlatform) {
+      imageMap = "elevator_bottomImageMap";
+      frame = "0";
+      canSaveDynamicFields = "1";
+      Position = "-0.140 25.364";
+      size = "27.719 6.220";
+      Layer = "17";
+      CollisionPolyList = "-0.899 -0.788 0.913 -0.788 0.854 0.635 -0.884 0.700";
+         mountID = "44";
+      _behavior0 = "PlatformBehavior";
+   };
+   new t2dSceneObject(platformSpawner) {
+      canSaveDynamicFields = "1";
+      Position = "0.241 57.892";
+      size = "109.517 14.216";
+      Layer = "17";
+         mountID = "45";
+   };
+   new t2dAnimatedSprite(Bobby) {
+      animationName = "DragonIdleAnimation";
+      canSaveDynamicFields = "1";
+      config = "DragonTemplate";
+      Position = "0.319 -23.000";
+      Layer = "17";
+         mountID = "46";
+      _behavior0 = "ActorBehavior	Lives	1";
+      _behavior1 = "ControllerBehavior";
+      _behavior2 = "ActorAnimationBehavior	DatablockPrefix	Dragon	ScaleVolume	0";
+   };
+   new t2dAnimatedSprite() {
+      animationName = "DrillIdleAnimation";
+      canSaveDynamicFields = "1";
+      Position = "-48.771 -42.625";
+      size = "21.250 16.000";
+      Rotation = "90";
+      Layer = "16";
+         mountID = "47";
+   };
+   new t2dStaticSprite() {
+      imageMap = "sky_duskImageMap";
+      frame = "0";
+      canSaveDynamicFields = "1";
+      Position = "-1.000 0.000";
+      size = "110.000 80.000";
+      Layer = "30";
+         mountID = "48";
+   };
+   new t2dScroller(rightWall0) {
+      imageMap = "grass_t1ImageMap";
+      canSaveDynamicFields = "1";
+      Position = "50.000 0.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      Layer = "17";
+         mountID = "49";
+   };
+   new t2dScroller(rightWall1) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166625";
+      canSaveDynamicFields = "1";
+      Position = "50.000 -15.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      Layer = "17";
+         mountID = "50";
+   };
+   new t2dScroller(rightWall2) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166455";
+      canSaveDynamicFields = "1";
+      Position = "50.000 -30.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      Layer = "17";
+         mountID = "51";
+   };
+   new t2dScroller(rightWall3) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00167258";
+      canSaveDynamicFields = "1";
+      Position = "50.000 -45.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      Layer = "17";
+         mountID = "52";
+   };
+   new t2dScroller(rightWall4) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166641";
+      canSaveDynamicFields = "1";
+      Position = "50.000 15.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      Layer = "17";
+         mountID = "53";
+   };
+   new t2dScroller(rightWall5) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166322";
+      canSaveDynamicFields = "1";
+      Position = "50.000 30.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      Layer = "17";
+         mountID = "54";
+   };
+   new t2dScroller(rightWall6) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166984";
+      canSaveDynamicFields = "1";
+      Position = "50.000 45.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      Layer = "17";
+         mountID = "55";
+   };
+   new t2dScroller(leftWall0) {
+      imageMap = "grass_t1ImageMap";
+      canSaveDynamicFields = "1";
+      Position = "-50.000 0.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      FlipY = "1";
+      Layer = "17";
+         mountID = "56";
+   };
+   new t2dScroller(leftWall1) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166544";
+      canSaveDynamicFields = "1";
+      Position = "-50.000 15.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      FlipY = "1";
+      Layer = "17";
+         mountID = "57";
+   };
+   new t2dScroller(leftWall2) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166383";
+      canSaveDynamicFields = "1";
+      Position = "-50.000 30.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      FlipY = "1";
+      Layer = "17";
+         mountID = "58";
+   };
+   new t2dScroller(leftWall3) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166576";
+      canSaveDynamicFields = "1";
+      Position = "-50.000 45.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      FlipY = "1";
+      Layer = "17";
+         mountID = "59";
+   };
+   new t2dScroller(leftWall4) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00167046";
+      canSaveDynamicFields = "1";
+      Position = "-50.000 -15.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      FlipY = "1";
+      Layer = "17";
+         mountID = "60";
+   };
+   new t2dScroller(leftWall5) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.00166703";
+      canSaveDynamicFields = "1";
+      Position = "-50.000 -30.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      FlipY = "1";
+      Layer = "17";
+         mountID = "61";
+   };
+   new t2dScroller(leftWall6) {
+      imageMap = "grass_t1ImageMap";
+      scrollPositionX = "-0.0016688";
+      canSaveDynamicFields = "1";
+      Position = "-50.000 -45.000";
+      size = "15.000 15.000";
+      Rotation = "-90";
+      FlipY = "1";
+      Layer = "17";
+         mountID = "62";
+   };
+   new t2dSceneObject(speedController) {
+      canSaveDynamicFields = "1";
+      Position = "0.056 6.303";
+      size = "126.345 130.981";
+         mountID = "63";
+   };
+   new t2dAnimatedSprite(gameOverBanner) {
+      animationName = "HUD_gameoverAnimation";
+      canSaveDynamicFields = "1";
+      Position = "80.410 -76.624";
+      size = "47.500 8.000";
+         mountID = "64";
+   };
+   new t2dAnimatedSprite(congratulationsBanner) {
+      animationName = "congratulationsAnimation";
+      canSaveDynamicFields = "1";
+      Position = "104.811 -57.868";
+      size = "64.000 8.000";
+         mountID = "65";
+   };
+   new t2dShapeVector() {
+      canSaveDynamicFields = "1";
+      Position = "49.517 0.366";
+      size = "18.056 106.444";
+      LineColor = "1 1 1 1";
+      fillColor = "0.5 0.5 0.5 1";
+      FillMode = "0";
+         mountID = "66";
+      _behavior0 = "PlatformBehavior";
+   };
+   new t2dShapeVector() {
+      canSaveDynamicFields = "1";
+      Position = "-50.012 0.366";
+      size = "18.056 106.444";
+      LineColor = "1 1 1 1";
+      fillColor = "0.5 0.5 0.5 1";
+      FillMode = "0";
+         mountID = "67";
+      _behavior0 = "PlatformBehavior";
+   };
+   new t2dStaticSprite(thousandsDigit) {
+      imageMap = "numbersLinkedImageMap";
+      frame = "0";
+      canSaveDynamicFields = "1";
+      Position = "-39.948 -31.031";
+      size = "3.750 6.250";
+         mountID = "68";
+   };
+   new t2dStaticSprite(hundredsDigit) {
+      imageMap = "numbersLinkedImageMap";
+      frame = "0";
+      canSaveDynamicFields = "1";
+      Position = "-35.948 -31.031";
+      size = "3.750 6.250";
+         mountID = "69";
+   };
+   new t2dStaticSprite(tensDigit) {
+      imageMap = "numbersLinkedImageMap";
+      frame = "0";
+      canSaveDynamicFields = "1";
+      Position = "-31.948 -31.031";
+      size = "3.750 6.250";
+         mountID = "70";
+   };
+   new t2dStaticSprite(onesDigit) {
+      imageMap = "numbersLinkedImageMap";
+      frame = "0";
+      canSaveDynamicFields = "1";
+      Position = "-27.948 -31.031";
+      size = "3.750 6.250";
+         mountID = "71";
+   };
+};

@@ -1,0 +1,18 @@
+<TorsionProjectOptions>
+<Address>127.0.0.1</Address>
+<Password>password</Password>
+<Port>6060</Port>
+<LastConfig>Release</LastConfig>
+<Breakpoints/>
+<Bookmarks/>
+<OpenFiles>
+<File ScrollX="0" ScrollY="0">game\gameScripts\timer.cs</File>
+<File ScrollX="0" ScrollY="166">game\gameScripts\GameMethods.cs</File>
+<File ScrollX="0" ScrollY="1032">game\behaviors\ActorBehavior.cs</File>
+<File ScrollX="0" ScrollY="0">game\behaviors\LevelCompleteBehavior.cs</File>
+<File ScrollX="0" ScrollY="774">game\behaviors\ActorAnimationBehavior.cs</File>
+<File ScrollX="0" ScrollY="32">game\gameScripts\game.cs</File>
+<File ScrollX="0" ScrollY="25">game\gui\mainScreen.gui</File>
+<File ScrollX="0" ScrollY="659" Active="true">game\data\levels\untitled.t2d</File>
+</OpenFiles>
+</TorsionProjectOptions>
